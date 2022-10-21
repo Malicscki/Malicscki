@@ -1,5 +1,8 @@
 # 💫 Sobre Mim:
-💬 Olá, me chamo Luiz Carlos Malicscki e estou em transição de carreira para a área de desenvolvimento. <br><br>👯 Participando do programa de formação +Devs2Blu na turma de C# .NET<br><br>⚡ Nas horas vagas curto andar de bike e jogar um FPS com amigos, principalmente um PUBG. 
+💬 Olá, me chamo Luiz Carlos Malicscki e estou em transição de carreira para a área de desenvolvimento.
+Sou formado em administração de empresas e tenho mais de 15 anos de experiência na área têxtil, o qual pelo menos 10 anos atuei como Coordenador de Controle de qualidade.
+Atualmente então, estou estudando para entrar na área e poder aliar meu conhecimento em industria para desenvolver soluções com a tecnologia. 
+<br><br>👯 Participando do programa de formação +Devs2Blu na turma de C# .NET<br><br>⚡ Nas horas vagas curto andar de bike e jogar um FPS com amigos, principalmente um PUBG. 
 
 
 ## 🌐 Social:
